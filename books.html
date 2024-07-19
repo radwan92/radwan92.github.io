@@ -1,0 +1,19 @@
+---
+title: Books
+---
+
+<h1>{{ page.title }} (I've read)</h1>
+
+{% assign books = site.data.books | where: "status", "read" | sort: 'category' %}
+{% if books.size > 0 %}
+    <h2>{{ book_status.name }}</h2>
+    <div class="books-grid">
+        {% for book in books %}
+        <div class="book-cell">
+            <a href="{{ book.url }}">
+                <img src="assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}">
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+{% endif %}

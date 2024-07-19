@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+
+
+body {
+  font-family: 'JetBrains Mono', monospace;
+  margin: 0;
+  padding: 5px;
+  background-color: #f0f0f0;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+// Navigation
+nav {
+  text-align: left;
+
+  a {
+    font-weight: bold;
+
+    span {
+      white-space: pre;
+    }
+  }
+
+  a:hover {
+    color: white;
+    background-color: black;
+  }
+
+  .rollout {
+    display: inline-block;
+    max-width: 0%;
+    vertical-align: bottom;
+    overflow: hidden;
+  }
+  
+  a:hover .rollout {
+    max-width: 100%;
+    transition: max-width 1s ease-in-out;
+  }
+}
+
+a, a:visited {
+  color: #000;
+  text-decoration: none;
+}
+
+// Resources
+.resource-link {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+// Books
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+  justify-content: center;
+}
+
+.book-cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.book-cell img {
+  width: 100%;
+  height: auto;
+  max-width: 180px;
+  display: block;
+}
+
+// Games
+.games-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  row-gap: 10px;
+}
+
+.game-cell {
+  display: flex;
+  justify-content: center;
+}
+
+.game-cell img {
+  width: 100%;
+  height: auto;
+  max-width: 180px;
+  display: block;
+}
+
+@media (max-width: 600px) {
+  .games-grid {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  }
+}

@@ -1,0 +1,209 @@
+- name: C# in a Nutshell
+  category: csharp
+  slug: csharp_in_a_nutshell
+  status: read
+  url: https://www.goodreads.com/book/show/35023933-c-7-0-in-a-nutshell
+
+- name: Code Complete
+  category: programming
+  slug: code_complete
+  status: read
+  url: https://www.goodreads.com/book/show/4845.Code_Complete
+
+- name: "Scrum: The Art of Doing Twice the Work in Half the Time"
+  category: management
+  slug: scrum_the_art
+  status: read
+  url: https://www.goodreads.com/book/show/19288230-scrum
+
+- name: "Design It!: From Programmer to Software Architect"
+  category: programming
+  slug: "design_it"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/31670678-design-it"
+
+- name: "Clean Code: A Handbook of Agile Software Craftsmanship"
+  category: programming
+  slug: "clean_code"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/3735293-clean-code"
+
+- name: "CLR via C#"
+  category: csharp
+  slug: "clr_via_csharp"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/7121415-clr-via-c"
+
+- name: "Pro ASP.NET Core MVC 2"
+  category: csharp
+  slug: "pro_aspnet_core_mvc_2"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/36503530-pro-asp-net-core-mvc-2"
+
+- name: ".NET Microservices: Architecture for Containerized .NET Applications"
+  category: csharp
+  slug: "net_microservices"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/35222701-net-microservices"
+
+- name: "Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming"
+  category: csharp
+  slug: "concurrency_in_csharp"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/18492385-concurrency-in-c-cookbook"
+
+- name: "The C Programming Language"
+  category: cpp
+  slug: "c_programming_language"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/515601.The_C_Programming_Language"
+
+- name: "The C++ Programming Language"
+  category: cpp
+  slug: "cpp_programming_language"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/112251.The_C_Programming_Language"
+
+- name: "The Complete Software Developer's Career Guide"
+  category: programming
+  slug: "complete_software_developer_career_guide"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide"
+
+- name: "Networking All-in-One For Dummies"
+  category: networking
+  slug: "networking_all_in_one"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/8691868-networking-all-in-one-for-dummies"
+
+- name: "Pro .NET Memory Management: For Better Code, Performance, and Scalability"
+  category: csharp
+  slug: "pro_net_memory_management"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/41738065-pro-net-memory-management"
+
+- name: "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations"
+  category: programming
+  slug: "devops_handbook"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/26083308-the-devops-handbook"
+
+- name: "Deep Work: Rules for Focused Success in a Distracted World"
+  category: other
+  slug: "deep_work"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/25744928-deep-work"
+
+- name: "Elon Musk"
+  category: other
+  slug: "elon_musk"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/122765395-elon-musk"
+
+- name: "Steve Jobs"
+  category: other
+  slug: "steve_jobs"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/11084145-steve-jobs"
+
+- name: "No Hard Feelings: The Secret Power of Embracing Emotions at Work"
+  category: management
+  slug: "no_hard_feelings"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/42734244-no-hard-feelings"
+
+- name: "The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations"
+  category: management
+  slug: "starfish_and_the_spider"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/21314.The_Starfish_and_the_Spider"
+
+- name: "Secrets of Sand Hill Road: Venture Capital and How to Get It"
+  category: other
+  slug: "secrets_of_sand_hill_road"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/42348376-secrets-of-sand-hill-road"
+
+- name: "Hands-on Rust: Effective Learning through 2D Game Development and Play"
+  category: programming
+  slug: "hands_on_rust"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/55961302-hands-on-rust"
+
+- name: "The Manager's Path: A Guide for Tech Leaders Navigating Growth and"
+  category: management
+  slug: "managers_path"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/33369254-the-manager-s-path"
+
+- name: "Practical Video Game Bots: Automating Game Processes using C++, Python, and Rust"
+  category: programming
+  slug: "video_game_bots"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/42191364-practical-video-game-bots"
+
+- name: "Serious Cryptography: A Practical Introduction to Modern Encryption"
+  category: programming
+  slug: "serious_cryptography"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/36265193-serious-cryptography"
+
+- name: "Buildint Microservices: Designing Fine-Grained Systems"
+  category: programming
+  slug: "building_microservices"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/22512931-building-microservices"
+
+- name: "Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library"
+  category: cpp
+  slug: "effective_stl"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/105124.Effective_STL"
+
+- name: "Effective C++: 55 Specific Ways to Improve Your Programs and Designs"
+  category: cpp
+  slug: "effective_cpp"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/105125.Effective_C_"
+
+- name: "More Effective C++: 35 New Ways to Improve Your Programs and Designs"
+  category: cpp
+  slug: "more_effective_cpp"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/105123.More_Effective_C_"
+
+- name: "Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14"
+  category: cpp
+  slug: "effective_modern_cpp"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/22800553-effective-modern-c"
+
+- name: "C++ Coding Standards: 101 Rules, Guidelines"
+  category: cpp
+  slug: "cpp_coding_standards"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/1105780.C_Coding_Standards"
+
+- name: "Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions"
+  category: cpp
+  slug: "exceptional_cpp"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/955406.Exceptional_C_"
+
+- name: "Agile Project Management with Kanban"
+  category: management
+  slug: "agile_project_management_kanban"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/23337326-agile-project-management-with-kanban"
+
+- name: "Development & Deployment of Multiplayer Online Games Vol. 1"
+  category: networking
+  slug: "development_deployment_multiplayer_online_games_vol1"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/36438566-development-deployment-of-multiplayer-online-games-vol-i"
+
+- name: "Development & Deployment of Multiplayer Online Games Vol. 2"
+  category: networking
+  slug: "development_deployment_multiplayer_online_games_vol2"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/54585990-development-and-deployment-of-multiplayer-online-games-vol-ii"

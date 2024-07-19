@@ -1,0 +1,9 @@
+---
+title: Game Networking Resources
+---
+
+<h1>{{ page.title }}</h1>
+{% for resource in site.gnet_resources %}
+  <a class="resource-link" href="{{ resource.url }}">{{ resource.title }}</a> - {{ resource.description }}
+  <br>
+{% endfor %}
