@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
 
-
-
 body {
   font-family: 'JetBrains Mono', monospace;
   margin: 0;
@@ -50,6 +48,24 @@ a, a:visited {
 .resource-link {
   font-weight: bold;
   text-decoration: underline;
+}
+
+// Search bar
+.search-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.search-bar {
+  margin-right: 8px;
+}
+
+.search-clear-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 16px;
 }
 
 // Books

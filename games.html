@@ -1,11 +1,15 @@
 ---
 title: Games
 ---
+<script src="assets/js/search_bar.js"></script>
+
 <h1>{{ page.title }} (I've played)</h1>
 
-<div class="games-grid">
+{% include search_bar.html %}
+
+<div class="games-grid data-grid">
     {% for game in site.data.games %}
-    <div class="game-cell">
+    <div class="game-cell data-cell" data-name="{{ game.name }}">
         <a href="{{ game.url }}">
             <img loading="lazy" src="assets/images/games/{{ game.slug }}.jpg" alt="{{ game.name }}">
         </a>

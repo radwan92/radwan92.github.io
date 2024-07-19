@@ -1,15 +1,16 @@
 ---
 title: Books
 ---
-
+<script src="assets/js/search_bar.js"></script>
 <h1>{{ page.title }} (I've read)</h1>
+
+{% include search_bar.html %}
 
 {% assign books = site.data.books | where: "status", "read" | sort: 'category' %}
 {% if books.size > 0 %}
-    <h2>{{ book_status.name }}</h2>
-    <div class="books-grid">
+    <div class="books-grid data-grid">
         {% for book in books %}
-        <div class="book-cell">
+        <div class="book-cell data-cell" data-name="{{ book.name }}">
             <a href="{{ book.url }}">
                 <img src="assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}">
             </a>
