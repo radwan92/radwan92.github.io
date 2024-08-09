@@ -1,5 +1,5 @@
 - name: C# in a Nutshell
-  category: csharp
+  category: programming_csharp
   slug: csharp_in_a_nutshell
   status: read
   url: https://www.goodreads.com/book/show/35023933-c-7-0-in-a-nutshell
@@ -29,37 +29,37 @@
   url: "https://www.goodreads.com/book/show/3735293-clean-code"
 
 - name: "CLR via C#"
-  category: csharp
+  category: programming_csharp
   slug: "clr_via_csharp"
   status: "read"
   url: "https://www.goodreads.com/book/show/7121415-clr-via-c"
 
 - name: "Pro ASP.NET Core MVC 2"
-  category: csharp
+  category: programming_csharp
   slug: "pro_aspnet_core_mvc_2"
   status: "read"
   url: "https://www.goodreads.com/book/show/36503530-pro-asp-net-core-mvc-2"
 
 - name: ".NET Microservices: Architecture for Containerized .NET Applications"
-  category: csharp
+  category: programming_csharp
   slug: "net_microservices"
   status: "read"
   url: "https://www.goodreads.com/book/show/35222701-net-microservices"
 
 - name: "Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming"
-  category: csharp
+  category: programming_csharp
   slug: "concurrency_in_csharp"
   status: "read"
   url: "https://www.goodreads.com/book/show/18492385-concurrency-in-c-cookbook"
 
 - name: "The C Programming Language"
-  category: cpp
+  category: programming_cpp
   slug: "c_programming_language"
   status: "read"
   url: "https://www.goodreads.com/book/show/515601.The_C_Programming_Language"
 
 - name: "The C++ Programming Language"
-  category: cpp
+  category: programming_cpp
   slug: "cpp_programming_language"
   status: "read"
   url: "https://www.goodreads.com/book/show/112251.The_C_Programming_Language"
@@ -71,13 +71,13 @@
   url: "https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide"
 
 - name: "Networking All-in-One For Dummies"
-  category: networking
+  category: programming_networking
   slug: "networking_all_in_one"
   status: "read"
   url: "https://www.goodreads.com/book/show/8691868-networking-all-in-one-for-dummies"
 
 - name: "Pro .NET Memory Management: For Better Code, Performance, and Scalability"
-  category: csharp
+  category: programming_csharp
   slug: "pro_net_memory_management"
   status: "read"
   url: "https://www.goodreads.com/book/show/41738065-pro-net-memory-management"
@@ -155,37 +155,37 @@
   url: "https://www.goodreads.com/book/show/22512931-building-microservices"
 
 - name: "Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library"
-  category: cpp
+  category: programming_cpp
   slug: "effective_stl"
   status: "read"
   url: "https://www.goodreads.com/book/show/105124.Effective_STL"
 
 - name: "Effective C++: 55 Specific Ways to Improve Your Programs and Designs"
-  category: cpp
+  category: programming_cpp
   slug: "effective_cpp"
   status: "read"
   url: "https://www.goodreads.com/book/show/105125.Effective_C_"
 
 - name: "More Effective C++: 35 New Ways to Improve Your Programs and Designs"
-  category: cpp
+  category: programming_cpp
   slug: "more_effective_cpp"
   status: "read"
   url: "https://www.goodreads.com/book/show/105123.More_Effective_C_"
 
 - name: "Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14"
-  category: cpp
+  category: programming_cpp
   slug: "effective_modern_cpp"
   status: "read"
   url: "https://www.goodreads.com/book/show/22800553-effective-modern-c"
 
 - name: "C++ Coding Standards: 101 Rules, Guidelines"
-  category: cpp
+  category: programming_cpp
   slug: "cpp_coding_standards"
   status: "read"
   url: "https://www.goodreads.com/book/show/1105780.C_Coding_Standards"
 
 - name: "Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions"
-  category: cpp
+  category: programming_cpp
   slug: "exceptional_cpp"
   status: "read"
   url: "https://www.goodreads.com/book/show/955406.Exceptional_C_"
@@ -197,13 +197,25 @@
   url: "https://www.goodreads.com/book/show/23337326-agile-project-management-with-kanban"
 
 - name: "Development & Deployment of Multiplayer Online Games Vol. 1"
-  category: networking
+  category: programming_networking
   slug: "development_deployment_multiplayer_online_games_vol1"
   status: "read"
   url: "https://www.goodreads.com/book/show/36438566-development-deployment-of-multiplayer-online-games-vol-i"
 
 - name: "Development & Deployment of Multiplayer Online Games Vol. 2"
-  category: networking
+  category: programming_networking
   slug: "development_deployment_multiplayer_online_games_vol2"
   status: "read"
   url: "https://www.goodreads.com/book/show/54585990-development-and-deployment-of-multiplayer-online-games-vol-ii"
+
+- name: "Site Reliability Engineering: How Google Runs Production Systems"
+  category: programming
+  slug: "site_reliability_engineering"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/27968891-site-reliability-engineering"
+
+- name: "The One Minute Manager"
+  category: management
+  slug: "one_minute_manager"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/763362.The_One_Minute_Manager"
