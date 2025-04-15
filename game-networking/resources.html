@@ -2,8 +2,24 @@
 title: Game Networking Resources
 ---
 
-<h1>{{ page.title }}</h1>
+<!-- <h1>{{ page.title }}</h1>
 {% for resource in site.gnet_resources %}
   <a class="resource-link" href="{{ resource.url }}">{{ resource.title }}</a> - {{ resource.description }}
   <br>
-{% endfor %}
+{% endfor %} -->
+
+<h1>{{ page.title }}</h1>
+
+{% assign resources = site.data.gnr | sort: 'name' %}
+{% if resources.size > 0 %}
+<div>
+    <ul class="resource-list">
+        {% for resource in resources %}
+        <li class="resource-item">
+            <a class="resource-link" href="{{ resource.url }}">{{ resource.name }}</a> <a
+                href="/assets/pdfs/{{ resource.file }}">[PDF]</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}

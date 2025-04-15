@@ -219,3 +219,15 @@
   slug: "one_minute_manager"
   status: "read"
   url: "https://www.goodreads.com/book/show/763362.The_One_Minute_Manager"
+
+- name: "Obviously Awesome: How to Get the Most Out of Your Marketing"
+  category: business
+  slug: "obviously_awesome"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/45166937-obviously-awesome"
+
+- name: "Algorithms (Fourth Edition)"
+  category: programming
+  slug: "algorithms"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/10803540-algorithms"
