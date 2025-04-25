@@ -1,3 +1,11 @@
 - name: "Source Multiplayer Networking"
   file: "Source Multiplayer Networking - Valve Developer Community.pdf"
   url: "https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking"
+
+- name: "1500 Archers on a 28.8"
+  file: "1500 Archers - Network Programming in Age of Empires.pdf"
+  url: "https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond"
+
+- name: "Fast-Paced Multiplayer - Gabriel Gambetta"
+  file: "Fast-Paced Multiplayer - Gabriel Gambetta.pdf"
+  url: "http://www.gabrielgambetta.com/client-server-game-architecture.html"
