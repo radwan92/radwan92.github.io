@@ -249,3 +249,9 @@
   slug: "personal_mba"
   status: "read"
   url: "https://www.goodreads.com/book/show/9512985-the-personal-mba"
+
+- name: "The Software Engineer's Guidebook"
+  category: programming
+  slug: "software_engineers_guidebook"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/201545491-the-software-engineer-s-guidebook"
