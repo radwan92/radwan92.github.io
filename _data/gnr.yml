@@ -13,3 +13,7 @@
 - name: "Networking - How a Shooter Shoots"
   file: "Networking - How a Shooter Shoots.pdf"
   url: "https://kotaku.com/networking-how-a-shooter-shoots-5869564"
+
+- name: "Dead Reckoning - Latency Hiding for Networked Games"
+  file: "Dead Reckoning - Latency Hiding for Networked Games.pdf"
+  url: "https://www.gamedeveloper.com/programming/dead-reckoning-latency-hiding-for-networked-games"
