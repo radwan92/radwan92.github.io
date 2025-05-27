@@ -17,3 +17,7 @@
 - name: "Dead Reckoning - Latency Hiding for Networked Games"
   file: "Dead Reckoning - Latency Hiding for Networked Games.pdf"
   url: "https://www.gamedeveloper.com/programming/dead-reckoning-latency-hiding-for-networked-games"
+
+- name: "Peeking into VALORANT's Netcode"
+  file: "Peeking into VALORANTs Netcode.pdf"
+  url: "https://technology.riotgames.com/news/peeking-valorants-netcode"
