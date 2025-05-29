@@ -21,3 +21,7 @@
 - name: "Peeking into VALORANT's Netcode"
   file: "Peeking into VALORANTs Netcode.pdf"
   url: "https://technology.riotgames.com/news/peeking-valorants-netcode"
+
+- name: "Netcode at Super Bit Machine"
+  file: "Netcode at Super Bit Machine.pdf"
+  url: "https://medium.com/@geretti/netcode-at-super-bit-machine-multiplayer-first-7940aa0a9fa4"
