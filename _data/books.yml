@@ -106,6 +106,12 @@
   status: "read"
   url: "https://www.goodreads.com/book/show/11084145-steve-jobs"
 
+- name: "21 Lessons for the 21st Century"
+  category: other
+  slug: "21_lessons"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century"
+
 - name: "No Hard Feelings: The Secret Power of Embracing Emotions at Work"
   category: management
   slug: "no_hard_feelings"
@@ -243,6 +249,12 @@
   slug: "extreme_ownership"
   status: "read"
   url: "https://www.goodreads.com/book/show/23848190-extreme-ownership"
+
+- name: "Leadership Strategy and Tactics: Field Manual"
+  category: management
+  slug: "leadership_strategy_tactics"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/53113287-leadership-strategy-and-tactics"
 
 - name: "The Personal MBA: Master the Art of Business"
   category: business
