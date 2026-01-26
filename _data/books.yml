@@ -267,3 +267,15 @@
   slug: "software_engineers_guidebook"
   status: "read"
   url: "https://www.goodreads.com/book/show/201545491-the-software-engineer-s-guidebook"
+
+- name: "Meditations by Marcus Aurelius"
+  category: "personal-dev"
+  slug: "meditations"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/233411514-meditations"
+
+- name: "Anxious People"
+  category: "personal-dev"
+  slug: "anxious_people"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/49127718-anxious-people"

@@ -14,10 +14,6 @@
   name: Advance Wars
   slug: advance-wars_1691
   url: https://www.igdb.com/g/1az
-- id: '5384'
-  name: 'Advanced Dungeons & Dragons: Eye of the Beholder'
-  slug: advanced-dungeons-&-dragons-eye-of-the-beholder_5384
-  url: https://www.igdb.com/g/45k
 - id: '79499'
   name: AdventureQuest
   slug: adventurequest_79499
@@ -54,14 +50,6 @@
   name: Angry Birds
   slug: angry-birds_2035
   url: https://www.igdb.com/g/1kj
-- id: '662'
-  name: Anno 1404
-  slug: anno-1404_662
-  url: https://www.igdb.com/g/ie
-- id: '4348'
-  name: Another World
-  slug: another-world_4348
-  url: https://www.igdb.com/g/3cs
 - id: '114795'
   name: Apex Legends
   slug: apex-legends_114795
@@ -370,6 +358,10 @@
   name: Darkwood
   slug: darkwood_17032
   url: https://www.igdb.com/g/d54
+- id: '662'
+  name: Dawn of Discovery
+  slug: dawn-of-discovery_662
+  url: https://www.igdb.com/g/ie
 - id: '536'
   name: Dead Island
   slug: dead-island_536
@@ -583,9 +575,13 @@
   slug: enter-the-gungeon_11182
   url: https://www.igdb.com/g/8mm
 - id: '6979'
-  name: 'E.V.O. : Search for Eden'
-  slug: evo--search-for-eden_6979
+  name: 'E.V.O.: Search for Eden'
+  slug: evo-search-for-eden_6979
   url: https://www.igdb.com/g/5dv
+- id: '5384'
+  name: Eye of the Beholder
+  slug: eye-of-the-beholder_5384
+  url: https://www.igdb.com/g/45k
 - id: '522'
   name: Fable II
   slug: fable-ii_522
@@ -606,6 +602,10 @@
   name: Fallout 3
   slug: fallout-3_15
   url: https://www.igdb.com/g/f
+- id: '13'
+  name: 'Fallout: A Post Nuclear Role Playing Game'
+  slug: fallout-a-post-nuclear-role-playing-game_13
+  url: https://www.igdb.com/g/d
 - id: '306'
   name: Far Cry
   slug: far-cry_306
@@ -642,6 +642,10 @@
   name: Final Fantasy Tactics
   slug: final-fantasy-tactics_428
   url: https://www.igdb.com/g/bw
+- id: '427'
+  name: Final Fantasy VII
+  slug: final-fantasy-vii_427
+  url: https://www.igdb.com/g/bv
 - id: '386'
   name: Final Fantasy XIV Online
   slug: final-fantasy-xiv-online_386
@@ -842,6 +846,10 @@
   name: Heavy Rain
   slug: heavy-rain_493
   url: https://www.igdb.com/g/dp
+- id: '32365'
+  name: Hell Let Loose
+  slug: hell-let-loose_32365
+  url: https://www.igdb.com/g/oz1
 - id: '14523'
   name: Helldivers
   slug: helldivers_14523
@@ -1002,6 +1010,10 @@
   name: LittleBigPlanet
   slug: littlebigplanet_1058
   url: https://www.igdb.com/g/te
+- id: '141533'
+  name: Loop Hero
+  slug: loop-hero_141533
+  url: https://www.igdb.com/g/317h
 - id: '1915'
   name: Lost Planet 2
   slug: lost-planet-2_1915
@@ -1210,6 +1222,10 @@
   name: Neverwinter
   slug: neverwinter_1908
   url: https://www.igdb.com/g/1h0
+- id: '1864'
+  name: 'Ni no Kuni: Wrath of the White Witch'
+  slug: ni-no-kuni-wrath-of-the-white-witch_1864
+  url: https://www.igdb.com/g/1fs
 - id: '12571'
   name: Nioh
   slug: nioh_12571
@@ -1230,6 +1246,10 @@
   name: Orcs Must Die!
   slug: orcs-must-die_2355
   url: https://www.igdb.com/g/1tf
+- id: '4348'
+  name: Out of This World
+  slug: out-of-this-world_4348
+  url: https://www.igdb.com/g/3cs
 - id: '1910'
   name: Outlast
   slug: outlast_1910
@@ -1866,6 +1886,10 @@
   name: 'Tenchu: Shadow Assassins'
   slug: tenchu-shadow-assassins_5216
   url: https://www.igdb.com/g/40w
+- id: '9633'
+  name: Terranigma
+  slug: terranigma_9633
+  url: https://www.igdb.com/g/7fl
 - id: '1879'
   name: Terraria
   slug: terraria_1879
@@ -1886,6 +1910,10 @@
   name: 'The Elder Scrolls IV: Oblivion'
   slug: the-elder-scrolls-iv-oblivion_59
   url: https://www.igdb.com/g/1n
+- id: '472'
+  name: 'The Elder Scrolls V: Skyrim'
+  slug: the-elder-scrolls-v-skyrim_472
+  url: https://www.igdb.com/g/d4
 - id: '4243'
   name: The Incredible Machine
   slug: the-incredible-machine_4243
@@ -1894,6 +1922,10 @@
   name: 'The Legend of Zelda: A Link to the Past'
   slug: the-legend-of-zelda-a-link-to-the-past_1026
   url: https://www.igdb.com/g/si
+- id: '1029'
+  name: 'The Legend of Zelda: Ocarina of Time'
+  slug: the-legend-of-zelda-ocarina-of-time_1029
+  url: https://www.igdb.com/g/sl
 - id: '1035'
   name: 'The Legend of Zelda: The Minish Cap'
   slug: the-legend-of-zelda-the-minish-cap_1035
@@ -2011,8 +2043,8 @@
   slug: tom-clancy's-rainbow-six-3-raven-shield_908
   url: https://www.igdb.com/g/p8
 - id: '7360'
-  name: Tom Clancy's Rainbow Six Siege
-  slug: tom-clancy's-rainbow-six-siege_7360
+  name: Tom Clancy's Rainbow Six Siege X
+  slug: tom-clancy's-rainbow-six-siege-x_7360
   url: https://www.igdb.com/g/5og
 - id: '1842'
   name: Tom Clancy's Rainbow Six
@@ -2066,6 +2098,10 @@
   name: Tree of Savior
   slug: tree-of-savior_14391
   url: https://www.igdb.com/g/b3r
+- id: '119391'
+  name: Trials of Mana
+  slug: trials-of-mana_119391
+  url: https://www.igdb.com/g/2k4f
 - id: '6247'
   name: Trine
   slug: trine_6247
@@ -2090,6 +2126,10 @@
   name: Ultimate Mortal Kombat 3
   slug: ultimate-mortal-kombat-3_1621
   url: https://www.igdb.com/g/191
+- id: '41882'
+  name: 'Uncharted 2: Among Thieves ''- Limited Edition Collector''s Box'
+  slug: uncharted-2-among-thieves-'--limited-edition-collector's-box_41882
+  url: https://www.igdb.com/g/wbe
 - id: '431'
   name: 'Uncharted: Drake''s Fortune'
   slug: uncharted-drake's-fortune_431
@@ -2110,6 +2150,10 @@
   name: Unreal
   slug: unreal_273
   url: https://www.igdb.com/g/7l
+- id: '72813'
+  name: Untitled Goose Game
+  slug: untitled-goose-game_72813
+  url: https://www.igdb.com/g/1k6l
 - id: '19150'
   name: Vagante
   slug: vagante_19150
