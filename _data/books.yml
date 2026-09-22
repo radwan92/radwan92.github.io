@@ -279,3 +279,21 @@
   slug: "anxious_people"
   status: "read"
   url: "https://www.goodreads.com/book/show/49127718-anxious-people"
+
+- name: "To Sell is Human"
+  category: business
+  slug: "to_sell_is_human"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/13593553-to-sell-is-human"
+
+- name: "Product-Led Growth"
+  category: business
+  slug: "product_led_growth"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/46033247-product-led-growth"
+
+- name: "System Design Interview"
+  category: programming
+  slug: "system_design_interview"
+  status: "read"
+  url: "https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide"
