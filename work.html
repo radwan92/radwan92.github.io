@@ -1,0 +1,22 @@
+---
+title: Work
+---
+<h1>{{ page.title }} (I've done)</h1>
+
+{% for place in site.data.work %}
+  <h2>{{ place.name }}</h2>
+  <ul>
+    {% for position in place.positions %}
+      <li>
+	<strong>{{ position.title }}</strong> ({{ position.from }} - {{ position.to }})
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="work-description">{{ place.description }}</p>
+  {% if place.notes %}
+    <details class="work-notes">
+      <summary>Personal notes</summary>
+      <p class="work-notes-content">{{ place.notes }}</p>
+    </details>
+  {% endif %}
+{% endfor %}

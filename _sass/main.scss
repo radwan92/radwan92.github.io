@@ -113,3 +113,27 @@ a, a:visited {
     grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
   }
 }
+
+// Work
+.work-description {
+  white-space: pre-line;
+}
+
+.work-notes {
+  margin: 0 0 1.5rem;
+  color: #666;
+
+  summary {
+    width: fit-content;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+}
+
+.work-notes-content {
+  margin: 0;
+  padding-left: 1rem;
+  border-left: 2px solid #ccc;
+  color: #222;
+  white-space: pre-line;
+}

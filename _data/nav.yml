@@ -1,5 +1,7 @@
 - name: /<span class="rollout">Home</span>
   link: /
+- name: /Work <span class="rollout">(I've done)</span>
+  link: /work.html
 - name: /Books <span class="rollout">(I've read)</span>
   link: /books.html
 - name: /Games <span class="rollout">(I've played)</span>

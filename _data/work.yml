@@ -1,0 +1,67 @@
+- name: coherence
+  positions:
+    - title: Head of Engineering
+      from: 2024
+      to: present
+    - title: Senior Programmer
+      from: 2021
+      to: 2024
+  description: |
+    I joined the company as an Engine team member where we kept extending and improving the Replication Server - the central part of the synchronous networking that powers coherence.
+
+    From there I moved to a Product Owner position for the engine team to help manage the processes and workflows. 
+
+    Finally, I became the Head of Engineering, where I'm helping coordinate the work of all the engineering teams (Engine, SDK, Online) and ensure that we keep pushing in one cohesive direction.
+  notes: |
+    It is the best team and the best culture I've ever worked with, at a level that I didn't even know was possible. 
+
+    Here I've learned that it is possible to build such a resilient team (fully remote!) that even if we removed half of the team, the remaining half would still be able to operate without any disruptions. 
+
+    Seniorship across the board, full transparency, no politics, and no ego. Just how I like it!
+- name: The Knights of Unity
+  positions:
+    - title: Network Tech Lead
+      from: 2021
+      to: 2021
+    - title: Senior Network Programmer
+      from: 2019
+      to: 2020
+  description: |
+    Initially the company had very little experience with networking, so I was tasked with evaluating and leading all the multiplayer-related contracts. The first bigger project was a custom real-time multiplayer framework for the Unity engine. 
+
+    Once the company gained confidence in our networking skills, multiplayer development became an officially offered service. That brought us a lot of different projects, from small prototypes to big multiplayer games. 
+
+    The biggest contract was a full-scale mobile multiplayer game, where I led the game server, backend, and client-side networking development in a team of 5 people.
+  notes: |
+    Very fun times! Since Knights of Unity operates like a "game development software house", I had a chance to dive into the internals of many already released games coming from our clients, both single-player and multiplayer. FPS, RTS, RPG, Action, sync, async, PC, console, you name it.
+
+    The mobile multiplayer game was instrumental in my growth as a network programmer and as a leader. I had to learn everything about project design and estimation, how to lead a team, how to communicate with the client, backend development, databases, containerization, orchestration, cloud deployment, and everything else that comes with a full-scale multiplayer game development. To this date I'm not quite sure how we pulled that off, but we've managed to deliver everything on time according to our one-year upfront estimates.
+- name: CD PROJEKT RED
+  positions:
+    - title: Network Programmer
+      from: 2018
+      to: 2019
+    - title: Junior Network Programmer
+      from: 2017
+      to: 2018
+  description: |
+    I became a core member of a 3-person game server team, responsible for the development and management of the Gwent game servers as well as the networking part of the game client. We also developed a headless game client for automated (stress) testing of the game servers and did a lot of optimization work to reduce the server costs (we reached a 10x capacity increase on the same hardware).
+  notes: |
+    It's a pure coincidence that I ended up working on the server team. I applied for a "tech team" position. However, during the interview they realized that I have a big interest in game networking as well as some solid knowledge in that area. Since network programmers are a rare breed, they pulled the server team lead into the interview, and I was offered a position on the team.
+
+    This is where I learned how to write production-quality code, how to work in a team (small and big), and how all the different teams collaborate to make a game. Luckily again, I had a great mentor (thanks Dan!) who taught me a lot about game networking, server architecture and gave me a lot of space to grow.
+
+    It was also my first experience with "raw" server management, so I learned the ropes of Linux server administration.
+
+    One vivid memory I have from that time is when my job was to implement the shop system for the game client. This was just when I finished reading a bunch of books on "best software architecture practices". Super high on OOP, SOLID principles and design patterns, I completely overengineered the shop system. It was solid, extensible, and tested, but huge overkill and probably hell to maintain. I'm glad that I'm long past that phase of my career.
+- name: theConstruct
+  positions:
+    - title: Software Engineer
+      from: 2015
+      to: 2017
+  description: |
+    I was the first non-founding employee, tasked with the development from scratch of a VR tour app using the Unity engine. The app was integrated with a custom backend, and I was responsible for the entire development process, from design to deployment. Since it was targeting multiple VR devices and we've been releasing fairly frequently, I set up a CI/CD pipeline to cut some toil.
+  notes: |
+    It was my first job as a software engineer and my first experience with a startup. What a ride! I learned a lot about app development, had a chance to participate in two startup bootcamps (in the Netherlands and in the US), and learned a little bit about the business side of things. 
+
+    I was given a lot of both responsibility and freedom, and was also lucky enough to have a pretty good mentor, who taught me a lot about software engineering and recommended some key books that set me on a good path to becoming a solid engineer (thanks Dominik!).
