@@ -4,7 +4,7 @@ title: Work
 <h1>{{ page.title }} (I've done)</h1>
 
 {% for place in site.data.work %}
-  <h2>{{ place.name }}</h2>
+<h2><a href="{{ place.link }}">{{ place.name }}</a></h2>
   <ul>
     {% for position in place.positions %}
       <li>

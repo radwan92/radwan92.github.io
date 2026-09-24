@@ -1,4 +1,5 @@
 - name: coherence
+  link: https://coherence.io
   positions:
     - title: Head of Engineering
       from: 2024
@@ -19,6 +20,7 @@
 
     Seniorship across the board, full transparency, no politics, and no ego. Just how I like it!
 - name: The Knights of Unity
+  link: https://theknightsofu.com
   positions:
     - title: Network Tech Lead
       from: 2021
@@ -37,6 +39,7 @@
 
     The mobile multiplayer game was instrumental in my growth as a network programmer and as a leader. I had to learn everything about project design and estimation, how to lead a team, how to communicate with the client, backend development, databases, containerization, orchestration, cloud deployment, and everything else that comes with a full-scale multiplayer game development. To this date I'm not quite sure how we pulled that off, but we've managed to deliver everything on time according to our one-year upfront estimates.
 - name: CD PROJEKT RED
+  link: https://www.cdprojektred.com
   positions:
     - title: Network Programmer
       from: 2018
@@ -55,6 +58,7 @@
 
     One vivid memory I have from that time is when my job was to implement the shop system for the game client. This was just when I finished reading a bunch of books on "best software architecture practices". Super high on OOP, SOLID principles and design patterns, I completely overengineered the shop system. It was solid, extensible, and tested, but huge overkill and probably hell to maintain. I'm glad that I'm long past that phase of my career.
 - name: theConstruct
+  link: https://www.theconstruct.io
   positions:
     - title: Software Engineer
       from: 2015
