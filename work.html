@@ -22,12 +22,29 @@ title: Work
 {% endfor %}
 
 <hr>
+<h1>Recommendations</h1>
+{% for rec in site.data.recs %}
+  <blockquote>
+    <p class="work-recommendation"><q>{{ rec.content | strip }}</q></p>
+    <footer>— {{ rec.from }}
+      <a href="{{ rec.linkedin }}"><img src="assets/images/linkedin.png" class="icon" alt="LinkedIn"></a>
+      {% if rec.mobygames != null %}
+        <a href="{{ rec.mobygames }}"><img src="assets/images/mobygames.png" class="icon" alt="MobyGames"></a>
+      {% endif %}
+      {% if rec.github != null %}
+        <a href="{{ rec.github }}"><img src="assets/images/github.png" class="icon" alt="GitHub"></a>
+      {% endif %}
+    </footer>
+  </blockquote>
+{% endfor %}
+
+<hr>
 
 <h1>FAQ</h1>
 <ul>
   <li>
     <strong>Why not mention technologies or languages used?</strong>
-    <p>I don't think that tech is a major obstacle. I've seen whole teams move to new languages and new frameworks successfully. I've also seen people claiming proficiency in a multitude of technologies struggle with the most basic tasks. Ability to learn, adapt and understand is what I think matters, and it's not easy to prove that on a resume.</p>
+    <p>I don't think that tech is a major obstacle. I've seen whole teams swiftly switch to new languages and new frameworks with big success. I've also seen people claiming proficiency in a multitude of technologies struggle with the most basic tasks. Ability to learn, adapt and understand is what I think matters, and it's not easy to prove that on a resume.</p>
   </li>
   <li>
     <strong>Did you study?</strong>
