@@ -1,27 +1,50 @@
 - name: "Source Multiplayer Networking"
+  type: article
   file: "Source Multiplayer Networking - Valve Developer Community.pdf"
   url: "https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking"
 
 - name: "1500 Archers on a 28.8"
+  type: article
   file: "1500 Archers - Network Programming in Age of Empires.pdf"
   url: "https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond"
 
 - name: "Fast-Paced Multiplayer - Gabriel Gambetta"
+  type: article
   file: "Fast-Paced Multiplayer - Gabriel Gambetta.pdf"
   url: "http://www.gabrielgambetta.com/client-server-game-architecture.html"
 
 - name: "Networking - How a Shooter Shoots"
+  type: article
   file: "Networking - How a Shooter Shoots.pdf"
   url: "https://kotaku.com/networking-how-a-shooter-shoots-5869564"
 
 - name: "Dead Reckoning - Latency Hiding for Networked Games"
+  type: article
   file: "Dead Reckoning - Latency Hiding for Networked Games.pdf"
   url: "https://www.gamedeveloper.com/programming/dead-reckoning-latency-hiding-for-networked-games"
 
 - name: "Peeking into VALORANT's Netcode"
+  type: article
   file: "Peeking into VALORANTs Netcode.pdf"
   url: "https://technology.riotgames.com/news/peeking-valorants-netcode"
 
 - name: "Netcode at Super Bit Machine"
+  type: article
   file: "Netcode at Super Bit Machine.pdf"
   url: "https://medium.com/@geretti/netcode-at-super-bit-machine-multiplayer-first-7940aa0a9fa4"
+
+- name: "I Shot You First: Networking the Gameplay of HALO: REACH"
+  type: video
+  url: "https://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking"
+
+- name: "'Overwatch' Gameplay Architecture and Netcode"
+  type: video
+  url: "https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and"
+
+- name: "8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2"
+  type: video
+  url: "https://www.youtube.com/watch?v=7jb0FOcImdg"
+
+- name: "It IS Rocket Science! The Physics of 'Rocket League' Detailed"
+  type: video
+  url: "https://www.gdcvault.com/play/1024972/It-IS-Rocket-Science-The"

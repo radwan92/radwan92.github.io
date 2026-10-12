@@ -2,24 +2,23 @@
 title: Game Networking Resources
 ---
 
-<!-- <h1>{{ page.title }}</h1>
-{% for resource in site.gnet_resources %}
-  <a class="resource-link" href="{{ resource.url }}">{{ resource.title }}</a> - {{ resource.description }}
-  <br>
-{% endfor %} -->
-
 <h1>{{ page.title }}</h1>
 
-{% assign resources = site.data.gnr | sort: 'name' %}
-{% if resources.size > 0 %}
-<div>
-    <ul class="resource-list">
-        {% for resource in resources %}
-        <li class="resource-item">
-            <a class="resource-link" href="{{ resource.url }}">{{ resource.name }}</a> <a
-                href="/assets/pdfs/{{ resource.file }}">[PDF]</a>
-        </li>
-        {% endfor %}
-    </ul>
-</div>
-{% endif %}
+<p>For some strange reason the field of game networking is one of the least documented areas of game development. There are many great resources out there, but they are scattered across the internet and often hard to find. Only few books have been written on the subject.</p>
+
+<p>Here's a list of my favorite resources which I found especially valuable early in my career.</p>
+
+{% assign groups = site.data.gnr | group_by: 'type' | sort: 'name' %}
+{% for group in groups %}
+<h2>{{ group.name | capitalize }}s</h2>
+<ul class="resource-list">
+    {% for resource in group.items %}
+    <li class="resource-item">
+        <a class="resource-link" href="{{ resource.url }}">{{ resource.name }}</a> {% if resource.file != null %}<a
+            href="/assets/pdfs/{{ resource.file }}">[PDF]</a>{% endif %}
+    </li>
+    {% endfor %}
+</ul>
+{% endfor %}
+
+<p>NOTE: The list is not exhaustive by any means. A much more complete list <u><a href="https://github.com/0xFA11/MultiplayerNetworkingResources">can be found here</a></u>.</p>
